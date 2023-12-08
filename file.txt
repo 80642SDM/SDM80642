@@ -1,2 +1,12 @@
 Hello world
+<<<<<<< HEA
+
+D
 Line by branch DEV1
+=======
+
+
+
+
+On branch dev2 to add line 
+>>>>>>> dev2
